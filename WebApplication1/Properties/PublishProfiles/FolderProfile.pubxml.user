@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\BT_WEB\web</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="api.aspx">
+      <publishTime>09/28/2025 01:46:33</publishTime>
+    </File>
+    <File Include="bin/maytinhdongian.dll">
+      <publishTime>09/28/2025 01:50:58</publishTime>
+    </File>
+    <File Include="bin/maytinhdongian.pdb">
+      <publishTime>09/28/2025 01:50:58</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>09/28/2025 01:50:58</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>09/28/2025 01:50:58</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>09/28/2025 01:48:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/28/2025 01:50:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

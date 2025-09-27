@@ -1,0 +1,6 @@
+D:\BT_WEB\maytinhdongian\maytinhdongian\bin\Release\maytinhdongian.dll
+D:\BT_WEB\maytinhdongian\maytinhdongian\bin\Release\maytinhdongian.pdb
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Release\maytinhdongian.csproj.AssemblyReference.cache
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Release\maytinhdongian.csproj.CoreCompileInputs.cache
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Release\maytinhdongian.dll
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Release\maytinhdongian.pdb

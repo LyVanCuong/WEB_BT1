@@ -1,0 +1,6 @@
+D:\BT_WEB\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.dll
+D:\BT_WEB\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.csproj.AssemblyReference.cache
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.csproj.CoreCompileInputs.cache
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.dll
+D:\BT_WEB\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.pdb

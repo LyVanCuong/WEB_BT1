@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Máy tính web</title>
+</head>
+<body>
+    <h2>Máy tính đơn giản</h2>
+    <input type="text" id="a" placeholder="Số A">
+    <select id="op">
+        <option>+</option>
+        <option>-</option>
+        <option>*</option>
+        <option>/</option>
+    </select>
+    <input type="text" id="b" placeholder="Số B">
+    <button onclick="tinh()">Tính</button>
+<pre id="out"></pre>
+
+    <script>
+function tinh(){
+  var a=document.getElementById('a').value;
+  var b=document.getElementById('b').value;
+  var op=document.getElementById('op').value;
+  var xhr=new XMLHttpRequest();
+  xhr.open("GET","api.aspx?a="+encodeURIComponent(a)+"&b="+encodeURIComponent(b)+"&op="+encodeURIComponent(op),true);
+  xhr.onreadystatechange=function(){
+    if(xhr.readyState===4 && xhr.status===200){
+      document.getElementById('out').textContent=xhr.responseText;
+    }
+  };
+  xhr.send(null);
+}
+    </script>
+</body>
+</html>

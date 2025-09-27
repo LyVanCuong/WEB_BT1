@@ -19,11 +19,11 @@ Sử dụng Visual Studio 2022<br>
    
    - Sửa lại tên file class1.cs = maytinh.cs và thay code trong đó bằng các input, output, hàm. Nhấn build solution để ra được file maytinhdongian.dll <br>
    
-    <img width="1703" height="884" alt="image" src="https://github.com/user-attachments/assets/95fb1ada-91de-4810-a85c-d61f668ede1b" /><br>
+       <img width="1703" height="884" alt="image" src="https://github.com/user-attachments/assets/95fb1ada-91de-4810-a85c-d61f668ede1b" /><br>
     
    - Kết quả:<br>
    
-    <img width="1401" height="760" alt="image" src="https://github.com/user-attachments/assets/8552ad5f-b929-4c25-a2c5-06e91270d869" /><br>
+       <img width="1401" height="760" alt="image" src="https://github.com/user-attachments/assets/8552ad5f-b929-4c25-a2c5-06e91270d869" /><br>
     
 # 2. CONSOLE APP<br>
 

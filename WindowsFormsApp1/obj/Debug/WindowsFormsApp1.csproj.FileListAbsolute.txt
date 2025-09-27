@@ -1,0 +1,11 @@
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\bin\Debug\maytinhdongian.dll
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\bin\Debug\maytinhdongian.pdb
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\BT_WEB\maytinhdongian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

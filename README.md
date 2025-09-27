@@ -15,15 +15,25 @@
 Sử dụng Visual Studio 2022**<br>
 1. CLASS LIBRARY<br>
    - Creat a new project ---> Bấm chọn class library (.NET Framework 2.0) và đặt tên: maytinhdongian <br>
+   
    - Sửa lại tên file class1.cs = maytinh.cs và thay code trong đó bằng các input, output, hàm. Nhấn build solution để ra được file maytinhdongian.dll <br>
+   
     <img width="1703" height="884" alt="image" src="https://github.com/user-attachments/assets/95fb1ada-91de-4810-a85c-d61f668ede1b" /><br>
+    
    - Kết quả:<br>
+   
     <img width="1401" height="760" alt="image" src="https://github.com/user-attachments/assets/8552ad5f-b929-4c25-a2c5-06e91270d869" /><br>
+    
 2. CONSOLE APP<br>
+
 - Tạo project console app ( .NET Framework 2.0) thêm Reference tới maytinhdongian.dll và sửa lại code trong Program.cs<br>
+
    <img width="1705" height="770" alt="image" src="https://github.com/user-attachments/assets/e117eecb-9d37-4432-8939-2fe45692e0e4" /><br>
+   
 - Chuột phải vào project console ---> Set as startup project ---> F5 để chạy console app<br>
+
 - Kết quả:<br>
+
    <img width="1656" height="850" alt="image" src="https://github.com/user-attachments/assets/f8d4a2b6-2825-4e2e-b954-329fdd2b9c8a" /><br>
 
 3. WINDOWS FORM APP<br>

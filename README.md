@@ -1,4 +1,4 @@
-<img width="1695" height="878" alt="image" src="https://github.com/user-attachments/assets/5f9cf245-498a-4aea-83c1-33f1a58ae38b" /># WEB_BT1
+
 # BÀI TẬP VỀ NHÀ 01:
 **TẠO SOLUTION GỒM CÁC PROJECT SAU:**
 1. DLL đa năng, keyword: c# window library -> Class Library (.NET Framework) bắt buộc sử dụng .NET Framework 2.0: giải bài toán bất kỳ, độc lạ càng tốt, phải có dấu ấn cá nhân trong kết quả, biên dịch ra DLL. DLL độc lập vì nó ko nhập, ko xuất, nó nhận input truyền vào thuộc tính của nó, và trả về dữ liệu thông qua thuộc tính khác, hoặc thông qua giá trị trả về của hàm. Nó độc lập thì sẽ sử dụng được trên app dạng console (giao diện dòng lệnh - đen sì), cũng sử dụng được trên app desktop (dạng cửa sổ), và cũng sử dụng được trên web form (web chạy qua iis). <br>

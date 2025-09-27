@@ -37,30 +37,53 @@ Sử dụng Visual Studio 2022**<br>
    <img width="1656" height="850" alt="image" src="https://github.com/user-attachments/assets/f8d4a2b6-2825-4e2e-b954-329fdd2b9c8a" /><br>
 
 3. WINDOWS FORM APP<br>
+
 - Tạo project Windows form app ( .NET Framework 2.0) thêm Reference tới maytinhdongian.dll.<br>
+
 - Có 2 cách để tạo giao diện Design cho windows formm app:<br>
+
    + Dùng thao tác đồ họa kéo thả các thanh toolbox vào khung<br>
+   
    + Dùng code thay thế cho các file .cs để tự động tạo giao diện<br>
+   
 - Dùng code để xây dựng giao diện cho đề tài máy tính đơn giản:<br>
+
    + Program.cs:<br>
+   
      <img width="1695" height="878" alt="image" src="https://github.com/user-attachments/assets/f2a9c66a-f90b-4ccc-ba11-29cbe720ab9a" /><br>
+     
    + Form1.cs:<br>
+   
      <img width="1616" height="879" alt="image" src="https://github.com/user-attachments/assets/75402b86-ffd5-470c-b157-9ff3702b2d03" /><br>
+     
 - Tiếp tục project window form app ---> Set as startup project ---> F5 để chạy window form app<br>
+
 - Kết quả chạy: <br>
+
    <img width="1362" height="618" alt="image" src="https://github.com/user-attachments/assets/c1fbbe07-eb30-4abc-bb31-bc145407fc34" /><br>
    
 4. WEB FORM<br>
+
 - Tạo project ASP.NET Web Application ( .NET Framework 2.0) thêm Reference tới maytinhdongian.dll.<br>
+
 - Từ project này add thêm 1 HTML page đặt tên index.html và 1 item tên api.aspx<br>
+
 - Viết code html, css, js cho file index.html và code-behind cho api.aspx.cs<br>
+
    <img width="1702" height="639" alt="image" src="https://github.com/user-attachments/assets/b509170f-ce58-48ab-829b-aa5ea926b617" />s<br>
+   
    <img width="1669" height="691" alt="image" src="https://github.com/user-attachments/assets/de912a5f-777b-4341-a7ce-dee18108362d" /><br>
+   
 - Tạo 1 folder và publish Web Form vào folder đó <br>
+
    <img width="1149" height="509" alt="image" src="https://github.com/user-attachments/assets/af24636c-49be-4767-aca0-c3f66d5b95aa" /><br>
+
 - Deploy IIS + Host:<br>
+
   + Mở IIS --> Add Website ---> Trỏ đến folder vừa Publish vào<br>
+  
   + Hostname: maytinh.com, Port: 80<br>
+  
   + Mở nodepad chay quyền admin và mở tệp hosts trong địa chỉ: C:\Windows\System32\drivers\etc\hosts. Thêm dòng "127.0.0.1   maytinh.com" vào cuối tệp và lưu lại.<br>
     
 - Kết quả chạy trên localhost với tên miền là maytinh.com:<br>
